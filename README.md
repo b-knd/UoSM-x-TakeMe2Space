@@ -4,4 +4,4 @@ to-do
 - test inferencing script with emulator
 - update requirement.txt
 - update final file size
-- upload final model
+- upload final model and script
