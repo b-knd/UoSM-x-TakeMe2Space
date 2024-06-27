@@ -1,4 +1,4 @@
 Final BZ2 file size:
 Output file size (should be ~1MB-3MB):
 
-Entry point: python3 [inferencingCode.py]
+Entry point: 'python3 deblur_infer.py'
