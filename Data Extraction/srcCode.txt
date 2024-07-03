@@ -1,0 +1,3 @@
+Final BZ2 file size: 1.9kb
+
+Entry point: 'python3 dataExtraction.py'
